@@ -10,4 +10,9 @@ Here are some of my favorite VSCode Plugins!
 - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) 📄
 - [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) 🌊
 
+Here are some of my favorite Google Chrome Extensions!
+- [Wapplyzer](https://www.wappalyzer.com/) 🌐
+- [WhatFont](https://whatfonttool.com/) 🖋️
+- [Wikiwand](https://www.wikiwand.com/) 🪄
+
 Currently reading 📚 [System Design Interview – An insider's guide by Alex Xu](https://www.amazon.com/System-Design-Interview-Insiders-Guide-ebook/dp/B08B3FWYBX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=).
