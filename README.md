@@ -18,5 +18,3 @@ Here are some of my favorite Google Chrome Extensions!
 Here are some of my favorite books!
 - [Creativity, Inc. (The Expanded Edition): Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
-
-Currently reading 📚 [System Design Interview – An insider's guide by Alex Xu](https://www.amazon.com/System-Design-Interview-Insiders-Guide-ebook/dp/B08B3FWYBX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=).
